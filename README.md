@@ -52,7 +52,10 @@ When not working on a project or thinking about coding, I would most likely be p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 
-[![Samson's github stats](https://github-readme-stats.vercel.app/api?username=sosarenaint&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/sosarenaint?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sosarenaint&count_private=true&show_icons=true&theme=radical" width="350">
+</a>
 
 
 <img align="right" alt="img" src="https://react.sosarena.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
