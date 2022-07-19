@@ -29,7 +29,10 @@ When not working on a project or thinking about coding, I would most likely be p
 - 📫 How to reach me: DM [@samsonosanyaolu](https://www.linkedin.com/in/samson-sanyaolu/) || Email: samsonosanyaolu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Musical Instruments (Drums, Piano and Guitar)
-<img align="right" alt="img" src="https://react.sosarena.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
+
+<a href="https://wakatime.com/@HoukasaurusRex" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosarenaint&layout=compact&theme=radical" align="right" width="350">
+</a>
 
 
 **Languages and Tools:**  
@@ -50,6 +53,9 @@ When not working on a project or thinking about coding, I would most likely be p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 
 [![Samson's github stats](https://github-readme-stats.vercel.app/api?username=sosarenaint&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align="right" alt="img" src="https://react.sosarena.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
 
 📕 **Latest Blog Posts**
 - [Setting up Chakra UI Vue with Nuxt](https://blog.sosarena.com/setting-up-chakra-ui-vue-with-nuxt-268m)
