@@ -1,8 +1,8 @@
 <h2 align="center"> Hey there, I'm Samson Sanyaolu 👋🏾</h2>
 <p align="center">
-  <a href="https://react.sosarena.com">Website</a> •
+  <a href="https://sosamson.com">Website</a> •
   <a href="https://www.linkedin.com/in/samson-sanyaolu/">LinkedIn</a> •
-  <a href="https://blog.sosarena.com">Blog</a> •
+  <a href="https://sosamson.com/portfolio">Portfolio</a> •
   <a href="http://behance.net/sosarenaint">Behance</a>
 </p>
 
