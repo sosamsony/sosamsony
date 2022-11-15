@@ -1,7 +1,7 @@
 <h2 align="center"> Hey there, I'm Samson Sanyaolu 👋🏾</h2>
 <p align="center">
   <a href="https://sosamson.com">Website</a> •
-  <a href="https://www.linkedin.com/in/samson-sanyaolu/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sosamsony/">LinkedIn</a> •
   <a href="https://sosamson.com/portfolio">Portfolio</a> •
   <a href="http://behance.net/sosarenaint">Behance</a>
 </p>
@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Frontend Engineer, [Open-source contributor](https://github.com/Sosarenaint), and [Technical Writer](https://blog.sosarena.com) based in Abu Dhabi, United Arab Emirates. I am passionate about web technologies and making the web accessible to everyone.
+I'm a Frontend Engineer, [Open-source contributor](https://github.com/sosamsony), and [Technical Writer](https://blog.sosarena.com) based in Abu Dhabi, United Arab Emirates. I am passionate about web technologies and making the web accessible to everyone.
 
 When not working on a project or thinking about coding, I would most likely be playing musical instruments, designing, training, organizing events or spending time with my family and friends.
 
@@ -26,7 +26,7 @@ When not working on a project or thinking about coding, I would most likely be p
 
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Javascript, React, Vue, Web Development in general
-- 📫 How to reach me: DM [@samsonosanyaolu](https://www.linkedin.com/in/samson-sanyaolu/) || Email: samsonosanyaolu@gmail.com
+- 📫 How to reach me: DM [@sosamsony](https://www.linkedin.com/in/sosamsony/) || Email: hello@sosamson.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Musical Instruments (Drums, Piano and Guitar)
 
@@ -53,12 +53,12 @@ When not working on a project or thinking about coding, I would most likely be p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 
 
-<a href="https://github.com/sosarenaint?tab=repositories" target="_blank">
+<a href="https://github.com/sosamsony?tab=repositories" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=Sosarenaint&count_private=true&show_icons=true&theme=radical" width="350">
 </a>
 
 
-<img align="right" alt="img" src="https://react.sosarena.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
+<img align="right" alt="img" src="https://sosamson.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
 
 📕 **Latest Blog Posts**
 - [Setting up Chakra UI Vue with Nuxt](https://blog.sosarena.com/setting-up-chakra-ui-vue-with-nuxt-268m)
