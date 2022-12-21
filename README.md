@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Frontend Engineer, [Open-source contributor](https://github.com/sosamsony), and [Technical Writer](https://blog.sosarena.com) based in Abu Dhabi, United Arab Emirates. I am passionate about web technologies and making the web accessible to everyone.
+I'm a Frontend Engineer, [Open-source contributor](https://github.com/sosamsony), and [Technical Writer](https://blog.sosamson.com) based in Abu Dhabi, United Arab Emirates. I am passionate about web technologies and making the web accessible to everyone.
 
 When not working on a project or thinking about coding, I would most likely be playing musical instruments, designing, training, organizing events or spending time with my family and friends.
 
