@@ -31,7 +31,7 @@ When not working on a project or thinking about coding, I would most likely be p
 - ⚡ Fun fact: I play Musical Instruments (Drums, Piano and Guitar)
 
 <a href="https://wakatime.com/@HoukasaurusRex" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosarenaint&layout=compact&theme=radical" align="right" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosamsony&layout=compact&theme=radical" align="right" width="350">
 </a>
 
 
@@ -54,7 +54,7 @@ When not working on a project or thinking about coding, I would most likely be p
 
 
 <a href="https://github.com/sosamsony?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sosarenaint&count_private=true&show_icons=true&theme=radical" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=sosamsony&count_private=true&show_icons=true&theme=radical" width="350">
 </a>
 
 
