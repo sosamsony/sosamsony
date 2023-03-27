@@ -61,10 +61,10 @@ When not working on a project or thinking about coding, I would most likely be p
 <img align="right" alt="img" src="https://sosamson.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
 
 📕 **Latest Blog Posts**
-- [Setting up Chakra UI Vue with Nuxt](https://blog.sosarena.com/setting-up-chakra-ui-vue-with-nuxt-268m)
-- [Combining Stack, Tab & Drawer Navigations in React Native With React Navigation 5](https://blog.sosarena.com/combining-stack-tab-drawer-navigations-in-react-native-with-react-navigation-5-da)
-- [My journey as a Technical Team Lead and the lessons learned](https://blog.sosarena.com/my-journey-as-a-technical-team-lead-and-the-lessons-learned-2ikd)
-- [Deploying Vue App from Github to Netlify](https://blog.sosarena.com/deploying-vue-app-from-github-to-netlify-519g)
-- [Understanding the package.json file](https://blog.sosarena.com/understanding-the-package-json-file-3fdg)
-- [Setting up Domain with Namecheap & Netlify](https://blog.sosarena.com/setting-up-domain-with-namecheap-netlify-1a4d)
+- [Setting up Chakra UI Vue with Nuxt](#)
+- [Combining Stack, Tab & Drawer Navigations in React Native With React Navigation 5](#)
+- [My journey as a Technical Team Lead and the lessons learned](#)
+- [Deploying Vue App from Github to Netlify](#)
+- [Understanding the package.json file](#)
+- [Setting up Domain with Namecheap & Netlify](#)
 
