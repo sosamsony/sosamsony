@@ -14,18 +14,18 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Frontend Engineer, [Open-source contributor](https://github.com/sosamsony), and [Technical Writer](https://blog.sosamson.com) based in Abu Dhabi, United Arab Emirates. I am passionate about web technologies and making the web accessible to everyone.
+I'm a Web Developer, [Open-source contributor](https://github.com/sosamsony), and [Digital Designer](https://sosamson.com/portfolio) based in Abu Dhabi, United Arab Emirates. I am passionate about web technologies and making the web accessible to everyone.
 
 When not working on a project or thinking about coding, I would most likely be playing musical instruments, designing, training, organizing events or spending time with my family and friends.
 
-<!-- **I am currently looking for a software engineer position with an exciting company.** -->
+<!-- **I am currently looking for a web development or UI/UX Design position with an exciting company.** -->
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Javascript, React, Vue, Web Development in general
+- 💬 Ask me about Javascript, React, Vue, Web Development, User-focused Design in general
 - 📫 How to reach me: DM [@sosamsony](https://www.linkedin.com/in/sosamsony/) || Email: hello@sosamson.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Musical Instruments (Drums, Piano and Guitar)
