@@ -30,7 +30,7 @@ When not working on a project or thinking about coding, I would most likely be p
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Musical Instruments (Drums, Piano and Guitar)
 
-<a href="https://wakatime.com/@HoukasaurusRex" target="_blank">
+<a href="https://wakatime.com/@sosamsony" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosamsony&layout=compact&theme=radical" align="right" width="350">
 </a>
 
