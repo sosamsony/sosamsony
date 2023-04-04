@@ -57,8 +57,10 @@ When not working on a project or thinking about coding, I would most likely be p
   <img src="https://github-readme-stats.vercel.app/api?username=sosamsony&count_private=true&show_icons=true&theme=radical" width="350">
 </a>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Sosamsony" width="auto%"/>
 
 <img align="right" alt="img" src="https://sosamson.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
+
 
 📕 **Latest Blog Posts**
 - [Setting up Chakra UI Vue with Nuxt](#)
@@ -67,4 +69,3 @@ When not working on a project or thinking about coding, I would most likely be p
 - [Deploying Vue App from Github to Netlify](#)
 - [Understanding the package.json file](#)
 - [Setting up Domain with Namecheap & Netlify](#)
-
