@@ -15,7 +15,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a [Web Developer](https://sosamson.com), [Open-source contributor](https://github.com/sosamsony), and [Digital Designer](https://sosamson.com/portfolio) based in Abu Dhabi, United Arab Emirates. I am passionate about design thinking, web technologies and making the web accessible to everyone.
+I'm a [Web Developer](https://sosamson.com), [Open-source contributor](https://github.com/sosamsony), and [Digital Designer](https://sosamson.com/portfolio) based in Abu Dhabi, United Arab Emirates. I am passionate about design thinking, web technologies, and making the web accessible to everyone.
 
 When not working on a project or thinking about coding, I would most likely be playing musical instruments, designing, training, organizing events or spending time with my family and friends.
 
@@ -26,7 +26,7 @@ When not working on a project or thinking about coding, I would most likely be p
 <!-- - 🤔 I’m looking for help with ... -->
 
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Javascript, React, Vue, Web Development, User-focused Design in general
+- 💬 Ask me about Javascript, React, Vue, Web Development, and User-focused Design in general
 - 📫 How to reach me: DM [@sosamsony](https://www.linkedin.com/in/sosamsony/) || Email: hello@sosamson.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Musical Instruments (Drums, Piano and Guitar)
@@ -65,10 +65,10 @@ When not working on a project or thinking about coding, I would most likely be p
 <img align="right" alt="img" src="https://sosamson.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
 
 
-📕 **Latest Blog Posts**
-- [Setting up Chakra UI Vue with Nuxt](#)
-- [Combining Stack, Tab & Drawer Navigations in React Native With React Navigation 5](#)
-- [My journey as a Technical Team Lead and the lessons learned](#)
-- [Deploying Vue App from Github to Netlify](#)
-- [Understanding the package.json file](#)
-- [Setting up Domain with Namecheap & Netlify](#)
+📕 **Latest Featured Posts**
+- [Advanced hand gesture recognition sensor, invented by Google 💡](https://www.linkedin.com/posts/sosamsony_innovation-artificialintelligence-technology-activity-7047253175715676162-W02C?utm_source=share&utm_medium=member_desktop)
+- [𝗨𝗦𝗘𝗙𝗨𝗟 𝗛𝗧𝗠𝗟 𝗜𝗡𝗣𝗨𝗧 𝗧𝗬𝗣𝗘𝗦💡📑📌](https://www.linkedin.com/posts/sosamsony_html5-html-htmldeveloper-activity-7057303994733371392-dves?utm_source=share&utm_medium=member_desktop)
+- [A Mind-Blowing Animation To Master CSS Flexbox Ordering Created 🔥](https://www.linkedin.com/posts/sosamsony_html-css-javascript-activity-7049285364808572930-y5fN?utm_source=share&utm_medium=member_desktop)
+- [The Power of Human Intelligence 💥](https://www.linkedin.com/posts/sosamsony_humanintelligence-artificialintelligence-activity-7092710602598494208-wAB_?utm_source=share&utm_medium=member_desktop)
+- [Types of servers that play important roles for managing data across networks](https://www.linkedin.com/posts/sosamsony_servers-networking-technology-activity-7049291006898233345-qJns?utm_source=share&utm_medium=member_desktop)
+- [Art meets Technology, Incredible digital art painting! 🎇](https://www.linkedin.com/posts/sosamsony_digital-art-design-activity-7084960106362089472-h2B7?utm_source=share&utm_medium=member_desktop)
