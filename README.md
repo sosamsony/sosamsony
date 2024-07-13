@@ -72,3 +72,11 @@ When not working on a project or thinking about coding, I would most likely be p
 - [The Power of Human Intelligence 💥](https://www.linkedin.com/posts/sosamsony_humanintelligence-artificialintelligence-activity-7092710602598494208-wAB_?utm_source=share&utm_medium=member_desktop)
 - [Types of servers that play important roles for managing data across networks](https://www.linkedin.com/posts/sosamsony_servers-networking-technology-activity-7049291006898233345-qJns?utm_source=share&utm_medium=member_desktop)
 - [Art meets Technology, Incredible digital art painting! 🎇](https://www.linkedin.com/posts/sosamsony_digital-art-design-activity-7084960106362089472-h2B7?utm_source=share&utm_medium=member_desktop)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sosamsony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sosamsony" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sosamsony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sosamsony" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sosamsony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3194835" height="30" width="40" /></a>
+</p>
