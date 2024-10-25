@@ -7,7 +7,7 @@
   <a href="https://sosamson.com/portfolio">Portfolio</a> •
   <a href="http://behance.net/sosarenaint">Behance</a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sosamsony&label=Profile%20views&color=0e75b6&style=flat" alt="sosamsony" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sosamsony&label=Profile%20views&color=0e75b6&style=flat" alt="sosamsony" /> </p>
 
 ---
 
