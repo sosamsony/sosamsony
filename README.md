@@ -17,9 +17,9 @@
 Here are some ideas to get you started:
 -->
 
-I'm a [Lead Web Developer](https://sosamson.com), [Open-source contributor](https://madeinuae.dev), and [Digital Designer](https://sosamson.com/portfolio) based in Dubai, United Arab Emirates. I am passionate about design thinking, web technologies, and making the web accessible to everyone.
+I'm a [Lead Web Developer](https://sosamson.com), [Open-source contributor](https://made-in-uae.vercel.app/), and [Digital Designer](https://sosamson.com/portfolio) based in Dubai, United Arab Emirates. I am passionate about design thinking, web technologies, and making the web accessible to everyone. Beyond engineering, I'm passionate about gospel music 🎶 and playing the guitar 🎸.
 
-When not working on a project or thinking about coding, I would most likely be playing musical instruments, designing, training, organizing events or spending time with my family and friends.
+When not working on a project or thinking about coding, I would most likely be designing, training, organizing events, or spending time with my family and friends.
 
 <!-- **I am currently looking for a web development or UI/UX Design position with an exciting company.** -->
 
