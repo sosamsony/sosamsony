@@ -33,9 +33,6 @@ When not working on a project or thinking about coding, I would most likely be d
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Musical Instruments (Drums, Piano and Guitar)
 
-<a href="https://wakatime.com/@sosamsony" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosamsony&layout=compact&theme=radical" align="right" width="350">
-</a>
 
 
 **Languages and Tools:**  
@@ -56,13 +53,6 @@ When not working on a project or thinking about coding, I would most likely be d
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 
 
-<a href="https://github.com/sosamsony?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosamsony&count_private=true&show_icons=true&theme=radical" width="350">
-</a>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sosamsony&row=1&column=7">
-</p>
 
 <img align="right" alt="img" src="https://sosamson.com/static/media/me.46fe38dcac1824f4760e.png" width="auto%" height="auto" />
 
