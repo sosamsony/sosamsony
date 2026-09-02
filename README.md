@@ -17,7 +17,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a [Lead Web Developer](https://sosamson.com), [Open-source contributor](https://made-in-uae.vercel.app/), and [Digital Designer](https://sosamson.com/portfolio) based in Dubai, United Arab Emirates. I am passionate about design thinking, web technologies, and making the web accessible to everyone. Beyond engineering, I'm passionate about playing the guitar 🎸.
+I'm a Business System Manager, [Lead Web Developer](https://sosamson.com), [Open-source contributor](https://made-in-uae.vercel.app/), and [Digital Designer](https://sosamson.com/portfolio) based in Dubai, United Arab Emirates. I am passionate about design thinking, web technologies, business systems and making the web accessible to everyone. Beyond engineering, I'm passionate about playing the guitar 🎸.
 
 When not working on a project or thinking about coding, I would most likely be designing, training, organizing events, or spending time with my family and friends.
 
@@ -74,6 +74,9 @@ When not working on a project or thinking about coding, I would most likely be d
 - [Digital Creators Symposium 💥 - Curtin University, Dubai](https://www.instagram.com/reels/DPLy-8dD1Yg/)
 - [From Start to IMPACT - Curtin University, Dubai](https://www.instagram.com/reel/DGNxk07TLS6/)
 
+
+
+💡 <a class="button" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7064956308071813121" target="_blank">Subscribe to my Newsletter on LinkedIn</a>
 
 
 <h3 align="left">Connect with me:</h3>
